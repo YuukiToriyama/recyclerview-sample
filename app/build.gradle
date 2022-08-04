@@ -48,5 +48,5 @@ dependencies {
     implementation "com.squareup.moshi:moshi-kotlin:1.13.0"
     // Coroutine
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.3"
-    implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.4.1"
+    implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.5.1"
 }
